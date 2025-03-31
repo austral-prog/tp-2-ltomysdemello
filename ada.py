@@ -17,7 +17,7 @@ def ada():
     pesos = int(vuelto)
     centavos = int((vuelto - pesos)*100)
 
-    print ("Ingresar gasto:")
+    print (f"Ingresar gasto:")
     print (expense)
     print ("Dinero recibido:")
     print (money)
