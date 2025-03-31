@@ -5,7 +5,7 @@ def ada():
     print (first_name.lower() + " "+ last_name.lower())
     print (first_name.title() + " " + last_name.title())
     print (first_name.upper() + " " + last_name.upper())
-    print (f"\t {full_name.lower()}")
+    print (f"\t{full_name.lower()}")
     X = "Bangladesh"
     Y = "Barbados"
     print (f"The result of {X} comes first in the dictionary than {Y} is {X<Y}.")
